@@ -1,0 +1,114 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/CLion Programs/BinarySearchTrees/AVL.cpp
+AVL.h
+/cygdrive/d/CLion Programs/BinarySearchTrees/AVL.h
+algorithm
+-
+
+/cygdrive/d/CLion Programs/BinarySearchTrees/AVL.h
+BST.h
+/cygdrive/d/CLion Programs/BinarySearchTrees/BST.h
+
+/cygdrive/d/CLion Programs/BinarySearchTrees/BST.cpp
+BST.h
+/cygdrive/d/CLion Programs/BinarySearchTrees/BST.h
+queue
+-
+
+/cygdrive/d/CLion Programs/BinarySearchTrees/BST.h
+json.hpp
+/cygdrive/d/CLion Programs/BinarySearchTrees/json.hpp
+
+/cygdrive/d/CLion Programs/BinarySearchTrees/Splay.cpp
+Splay.h
+/cygdrive/d/CLion Programs/BinarySearchTrees/Splay.h
+
+/cygdrive/d/CLion Programs/BinarySearchTrees/Splay.h
+AVL.h
+/cygdrive/d/CLion Programs/BinarySearchTrees/AVL.h
+
+/cygdrive/d/CLion Programs/BinarySearchTrees/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+ciso646
+-
+clocale
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iosfwd
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+string
+-
+type_traits
+-
+utility
+-
+valarray
+-
+vector
+-
+
+/cygdrive/d/CLion Programs/BinarySearchTrees/main.cpp
+BST.h
+/cygdrive/d/CLion Programs/BinarySearchTrees/BST.h
+AVL.h
+/cygdrive/d/CLion Programs/BinarySearchTrees/AVL.h
+Splay.h
+/cygdrive/d/CLion Programs/BinarySearchTrees/Splay.h
+json.hpp
+/cygdrive/d/CLion Programs/BinarySearchTrees/json.hpp
+random
+-
+string
+-
+vector
+-
+chrono
+-
+queue
+-
+fstream
+-
+

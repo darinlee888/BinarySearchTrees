@@ -1,0 +1,42 @@
+{
+  "0": {
+    "key": 37,
+    "operation": "insert"
+  },
+  "1": {
+    "key": 31,
+    "operation": "insert"
+  },
+  "2": {
+    "key": 76,
+    "operation": "insert"
+  },
+  "3": {
+    "key": 37,
+    "operation": "delete"
+  },
+  "4": {
+    "key": 16,
+    "operation": "insert"
+  },
+  "5": {
+    "key": 52,
+    "operation": "insert"
+  },
+  "6": {
+    "key": 85,
+    "operation": "insert"
+  },
+  "7": {
+    "key": 8,
+    "operation": "insert"
+  },
+  "8": {
+    "key": 53,
+    "operation": "insert"
+  },
+  "9": {
+    "key": 92,
+    "operation": "insert"
+  }
+}

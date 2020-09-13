@@ -1,0 +1,35 @@
+{
+  "16": {
+    "parent": 52,
+    "right": 31
+  },
+  "31": {
+    "parent": 16
+  },
+  "52": {
+    "left": 16,
+    "parent": 8
+  },
+  "53": {
+    "left": 8,
+    "parent": 92,
+    "right": 85
+  },
+  "76": {
+    "parent": 85
+  },
+  "8": {
+    "parent": 53,
+    "right": 52
+  },
+  "85": {
+    "left": 76,
+    "parent": 53
+  },
+  "92": {
+    "left": 53,
+    "root": true
+  },
+  "root": 92,
+  "size": 8
+}
